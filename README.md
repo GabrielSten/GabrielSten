@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+![til](https://raw.githubusercontent.com/GabrielSten/GabrielSten/main/content/hi!.gif)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GabrielSten/GabrielSten/main/content/hi!.gif"/>
+</p>
 
 <!--
 **GabrielSten/GabrielSten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
