@@ -1,5 +1,5 @@
 
-<img  align="left" width="500px" src="content/hi!_small.gif">
+<img  align="left" src="content/hi!_small.gif">
 
 <h2 align="center">
     Welcome
@@ -9,7 +9,7 @@
     I'm Gabriel, ping me for more details about my work
 </p>
 
-<img  align="right" width="500px" src="content/hi!_small.gif">
+<img  align="right" src="content/hi!_small.gif">
 
 
 
