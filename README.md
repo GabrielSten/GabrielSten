@@ -14,13 +14,15 @@
             <td align="center"><p>I'm Gabriel, feel free to ping me for more details about my work
             </p>
             </td>
-            <td align="center"><img src="content/mail.gif" width="40px" [mail]></td>
+            <td align="center"><img src="content/mail.gif" width="60px" [mail]></td>
         </tr>
     </tbody>
 </table>
 
+<p>test[mai](mailto:gabriel.lindman@volvocars.com)</p>
+
 [linkedin]: https://www.linkedin.com/in/gabriel-lindman-829992186
-[mail]: (mailto:gabriel.lindman@volvocars.com)
+[mail]: mailto:gabriel.lindman@volvocars.com
 
 
 
