@@ -1,16 +1,18 @@
 
-<p>
-  <img  align="left" src="content/hi!_small.gif">
-  <img  align="right" src="content/hi!_small.gif">
-</p>
+<img  align="left" width="500px" src="content/hi!_small.gif">
 
 <h2 align="center">
     Welcome
 </h2>
 
 <p align="center">
-    My name is Gabriel, ping me to know more about my work.
+    I'm Gabriel, ping me for more details about my work
 </p>
+
+<img  align="right" width="500px" src="content/hi!_small.gif">
+
+
+
 
 <!--
 **GabrielSten/GabrielSten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
