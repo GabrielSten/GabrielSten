@@ -1,7 +1,4 @@
 
-
-![til](https://raw.githubusercontent.com/GabrielSten/GabrielSten/main/content/hi!.gif)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/GabrielSten/GabrielSten/main/content/hi!.gif"/>
 </p>
