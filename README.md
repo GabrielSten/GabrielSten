@@ -1,6 +1,15 @@
 
+<p>
+  <img  align="left" src="content/hi!_small.gif">
+  <img  align="right" src="content/hi!_small.gif">
+</p>
+
+<h2 align="center">
+    Welcome
+</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GabrielSten/GabrielSten/main/content/hi!.gif"/>
+    My name is Gabriel, ping me to know more about my work.
 </p>
 
 <!--
