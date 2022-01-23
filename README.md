@@ -10,7 +10,7 @@
     </thead>
     <tbody>
         <tr>
-            <td align="center"><img alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" [linkedin]/></td>
+            <td align="center">[<img alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]</td>
             <td align="center"><p>I'm Gabriel, feel free to ping me for more details about my work
             </p>
             </td>
@@ -19,10 +19,10 @@
     </tbody>
 </table>
 
-<p>test[mai](mailto:gabriel.lindman@volvocars.com)</p>
+[mail](mailto:gabriel.lindman@volvocars.com)
 
 [linkedin]: https://www.linkedin.com/in/gabriel-lindman-829992186
-[mail]: mailto:gabriel.lindman@volvocars.com
+[mail]: [user@example.com](mailto:user@example.com)
 
 
 
