@@ -1,15 +1,15 @@
 
-<img  align="left" src="content/hi!_small.gif">
+<img  align="left" src="content/hi!.gif" width="100px">
 
-<h2 align="center">
+<h2 align="center" width="200px">
     Welcome
 </h2>
 
-<p align="center">
+<p align="center" width="200px">
     I'm Gabriel, ping me for more details about my work
 </p>
 
-<img  align="right" src="content/hi!_small.gif">
+<img  align="right" src="content/hi!.gif" width="100px">
 
 
 
