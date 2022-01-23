@@ -8,16 +8,19 @@
             <th><img align="right" src="content/hi!.gif" width="150px"></th>
         </tr>
     </thead>
-<tbody>
-    <tr>
-    <td align="center"><img alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></td>
-    <td align="center"><p>I'm Gabriel, feel free to ping me for more details about my work
-</p></td>
-    <td> </td>
+    <tbody>
+        <tr>
+            <td align="center"><img alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" [linkedin]/></td>
+            <td align="center"><p>I'm Gabriel, feel free to ping me for more details about my work
+            </p>
+            </td>
+            <td><img src="content/hi!.gif" width="150px"></td>
     </tr>
     </tbody>
 </table>
 
+[linkedin]: https://www.linkedin.com/in/gabriel-lindman-829992186
+[mail]:(mailto:gabriel.lindman@volvocars.com)
 
 
 
