@@ -1,15 +1,22 @@
 
-<img  align="left" src="content/hi!.gif" width="150px">
-<img  align="right" src="content/hi!.gif" width="150px">
 
-
-<h2 align="center" width="1000px">
-    Welcome to my page!
-</h2>
-
-<p align="center" width="100">
-    I'm Gabriel, feel free to ping me for more details about my work
-</p>
+<table width="100%">
+    <thead>
+        <tr>
+            <th><img align="left" src="content/hi!.gif" width="150px"></th>
+            <th><h2 align="center">Welcome to my page!</h2></th>
+            <th><img align="right" src="content/hi!.gif" width="150px"></th>
+        </tr>
+    </thead>
+<tbody>
+    <tr>
+    <td> </td>
+    <td align="center"><p>I'm Gabriel, feel free to ping me for more details about my work
+</p></td>
+    <td> </td>
+    </tr>
+    </tbody>
+</table>
 
 
 
