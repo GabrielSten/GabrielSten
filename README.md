@@ -10,11 +10,11 @@
     </thead>
     <tbody>
         <tr>
-            <td align="center"><img alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /></td>
+            <td align="center">![<img alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]</td>
             <td align="center"><p>I'm Gabriel, recently graduated engineer with a lust for learning. Feel free to ping me for more details.
             </p>
             </td>
-            <td><img align="center" src="content/mail.gif" width="60px"></td>
+            <td align="center"><img src="content/mail.gif" width="60px"></td>
         </tr>
     </tbody>
 </table>
