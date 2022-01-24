@@ -3,9 +3,9 @@
 <table width="100%">
     <thead>
         <tr>
-            <th><img align="left" src="content/hi!.gif" width="150px"></th>
+            <th><a href="https://heeeeeeeey.com"</a><img align="left" src="content/hi!.gif" width="150px"></th>
             <th><h3 align="center">Welcome to my page!</h3></th>
-            <th><img align="right" src="content/hi!.gif" width="150px"></th>
+            <th><a href="https://heeeeeeeey.com"</a><img align="right" src="content/hi!.gif" width="150px"></th>
         </tr>
     </thead>
     <tbody>
