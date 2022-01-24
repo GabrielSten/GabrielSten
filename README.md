@@ -4,7 +4,7 @@
     <thead>
         <tr>
             <th><img align="left" src="content/hi!.gif" width="150px"></th>
-            <th><h2 align="center">Welcome to my page!</h2></th>
+            <th><h3 align="center">Welcome to my page!</h3></th>
             <th><img align="right" src="content/hi!.gif" width="150px"></th>
         </tr>
     </thead>
