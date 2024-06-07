@@ -1,0 +1,42 @@
+<svg fill="none" viewBox="0 0 600 600" width="600" height="600"
+    xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                background: #078487;
+
+                width: 100%;
+                height: 100%;
+
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                color: white;
+                font-family: comic sans ms;
+                }
+
+                .name {
+                font-size: 1.6rem;
+                display: flex;
+                align-items: flex-end;
+                justify-content: center;
+
+                }
+            </style>
+
+            <div class="container" >
+                <div class="name">
+                    <img src="https://github.com/gabrielsten/gabrielsten/blame/main/content/gabriel.png" width="200px" alt="wordart text spelling Gabriel">
+                        <a href="https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/" />
+                    </img>
+                    <p>is the name</p>
+                </div>
+
+                <img src="https://github.com/gabrielsten/gabrielsten/blame/main/content/devex.png" width="500px" alt="wordart text spelling Developer Experience" />
+                <p>is the game</p>
+
+                </div>
+            </div>
+    </foreignObject>
+</svg>
