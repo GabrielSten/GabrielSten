@@ -1,0 +1,65 @@
+<svg fill="none" viewBox="0 0 600 296" width="600" height="296" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          color: inherit;
+          text-decoration: none;
+          list-style: none;
+          outline: none;
+          box-sizing: border-box;
+          font-family: comic sans ms;
+          color: white;
+        }
+  
+        .body {
+          --color-main: #ff9b71;
+          --color-primary: #ff4444;
+          --color-secondary: #e8e677;
+          --color-background: #058486;
+  
+          height: 296px;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background-size: 200% 200%;
+          
+        }
+  
+        .container {
+          background: var(--color-background);
+          height: 100%;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          border-bottom-left-radius: 6px;
+          border-bottom-right-radius: 6px;
+
+
+        }
+  
+        .items {
+          font-size: 1.6rem;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+
+        }
+      </style>
+      <div class='body'>
+        <div class='container'>
+          <section class='items'>
+            <span><img src="./content/gabriel.png" width="200px" /> is the name</span>
+            <span><img src="./content/devex.png" width="400px" /></span>
+            <span><p>is the game</p></span>
+          </section>
+        </div>
+      </div>
+    </div>
+    </foreignObject>
+  </svg>
+  
