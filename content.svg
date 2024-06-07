@@ -42,7 +42,7 @@
         }
   
         .items {
-          font-size: 1.6rem;
+          font-size: 1.2rem;
           display: flex;
           justify-content: center;
           align-items: center;
@@ -53,8 +53,8 @@
       <div class='body'>
         <div class='container'>
           <section class='items'>
-            <span><img src="https://raw.githubusercontent.com/GabrielSten/GabrielSten/main/content/gabriel.png" width="200px" /> is the name</span>
-            <span><img src="https://raw.githubusercontent.com/GabrielSten/GabrielSten/main/content/devex.png" width="400px" /></span>
+            <span><img src="https://raw.githubusercontent.com/GabrielSten/GabrielSten/main/content/gabriel.png" width="100px" /> is the name</span>
+            <span><img src="https://raw.githubusercontent.com/GabrielSten/GabrielSten/main/content/devex.png" width="200px" /></span>
             <span><p>is the game</p></span>
           </section>
         </div>
