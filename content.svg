@@ -67,7 +67,7 @@
             -o-transform: skew(0, -15deg) scale(1, 1.5);
             -ms-transform: skew(0, -15deg) scale(1, 1.5);
             margin: 20px;
-            font-size: 2em
+            font-size: 3em
         }
         
         .wordart.superhero .text {
@@ -102,7 +102,7 @@
           filter: progid:DXImageTransform.Microsoft.Glow(Color=#0000aa,Strength=1);
           text-shadow: 0.13em -0.13em 0px #0000aa;
           letter-spacing: -0.05em;
-          font-size: 2em;
+          font-size: 3em;
         }
         }
       </style>
