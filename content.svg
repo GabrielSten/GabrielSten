@@ -1,6 +1,4 @@
 <svg role="img">
-  <title>Developer Experience SVG</title>
-  <desc>A visual representation of the developer experience theme, featuring stylized text.</desc>
   <style>
     .wordart.superhero .text, .wordart.blues .text {
       font-family: Impact, sans-serif;
