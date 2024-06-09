@@ -2,6 +2,32 @@
     <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        @keyframes spin {
+          from {
+            transform: rotate(0deg) scale(0);
+          }
+          to {
+            transform: rotate(360deg) scale(1);
+          }
+        }
+
+        @keyframes bounceInLeft {
+          0% {
+             opacity: 0;
+             transform: translateX(-500px);
+          }
+          60% {
+             opacity: 1;
+             transform: translateX(30px);
+          }
+          80% {
+             transform: translateX(-10px);
+          }
+          100% {
+             transform: translateX(0);
+          }
+       } 
+
         * {
           margin: 0;
           padding: 0;
@@ -111,16 +137,25 @@
           letter-spacing: -0.05em;
           font-size: 3em;
         }
+
+        .gabriel {
+          animation: spin 2s ease-in-out forwards;
+        }
+
+        .devex {
+          animation: bounceInLeft 2s ease-in-out forwards;
+        }
+
         
       </style>
       <div class='body'>
         <div class='container'>
           <section class='items'>
             <div class="side-items">
-            <div class="wordart superhero"><span class="text">Gabriel</span></div>
-            <span> is the name</span>
-          </div>
-            <div class="wordart blues"><span class="text">Developer Experience</span></div>
+              <div class="gabriel"><div class="wordart superhero"><span class="text">Gabriel</span></div></div>
+              <span> is the name</span>
+            </div>
+            <div class="devex"><div class="wordart blues"><span class="text">Developer Experience</span></div></div>
             <span><p>is the game</p></span>
           </section>
         </div>
